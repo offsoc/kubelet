@@ -12,11 +12,11 @@ require (
 	github.com/stretchr/testify v1.10.0
 	go.uber.org/goleak v1.3.0
 	google.golang.org/grpc v1.72.1
-	k8s.io/api v0.0.0-20250527173755-16b0005a085f
-	k8s.io/apimachinery v0.0.0-20250527161416-09ff13941cda
-	k8s.io/apiserver v0.0.0-20250527175757-73e127faf5f0
-	k8s.io/client-go v0.0.0-20250526134158-e75871c73119
-	k8s.io/component-base v0.0.0-20250527174749-7c0fc2b55ca1
+	k8s.io/api v0.33.1
+	k8s.io/apimachinery v0.33.1
+	k8s.io/apiserver v0.33.1
+	k8s.io/client-go v0.33.1
+	k8s.io/component-base v0.33.1
 	k8s.io/cri-api v0.0.0-20250527182550-7d025a3cd8e3
 	k8s.io/klog/v2 v2.130.1
 	k8s.io/utils v0.0.0-20250502105355-0f33e8f1c979
